@@ -5,6 +5,7 @@ using namespace std;
 class Marvellous
 {
 	public:
+	// this function is for addition
 	int Addition(int x,int y)
 	{
 		int iAns = 0;
